@@ -1,0 +1,3 @@
+cd .\lab1
+go test ./...
+go run ./cmd/ping
